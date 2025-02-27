@@ -1,0 +1,32 @@
+:root {
+  --h1-poppins-semibold-48-font-family: "Poppins", Helvetica;
+  --h1-poppins-semibold-48-font-weight: 600;
+  --h1-poppins-semibold-48-font-size: 48px;
+  --h1-poppins-semibold-48-letter-spacing: 0px;
+  --h1-poppins-semibold-48-line-height: 100%;
+  --h1-poppins-semibold-48-font-style: normal;
+  --medium-tag-16-pts-font-family: "Roboto", Helvetica;
+  --medium-tag-16-pts-font-weight: 400;
+  --medium-tag-16-pts-font-size: 16px;
+  --medium-tag-16-pts-letter-spacing: 0px;
+  --medium-tag-16-pts-line-height: normal;
+  --medium-tag-16-pts-font-style: normal;
+  --headline-28-font-family: "Poppins", Helvetica;
+  --headline-28-font-weight: 600;
+  --headline-28-font-size: 28px;
+  --headline-28-letter-spacing: 0px;
+  --headline-28-line-height: 28px;
+  --headline-28-font-style: normal;
+  --small-tag-14-pts-font-family: "Roboto", Helvetica;
+  --small-tag-14-pts-font-weight: 400;
+  --small-tag-14-pts-font-size: 14px;
+  --small-tag-14-pts-letter-spacing: 0px;
+  --small-tag-14-pts-line-height: 18px;
+  --small-tag-14-pts-font-style: normal;
+  --variable-collection-neutral-soft-black-100: rgba(16, 36, 66, 1);
+  --variable-collection-green-green-100: rgba(0, 170, 108, 1);
+  --variable-collection-neutral-black40: rgba(0, 0, 0, 0.4);
+  --variable-collection-neutral-white: rgba(255, 255, 255, 1);
+  --variable-collection-green-green-40: rgba(230, 244, 235, 1);
+  --variable-collection-neutral-gray-160: rgba(220, 220, 220, 1);
+}
